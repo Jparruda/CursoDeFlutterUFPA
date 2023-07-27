@@ -1,14 +1,6 @@
 import 'dart:io';
 void main() {
   // EXERCÍCIO 1 =====================================================
-  // double num1 = double.parse(stdin.readLineSync()!);
-  // double num2 = double.parse(stdin.readLineSync()!);
-  
-  // print('''A soma dos dois números é ${num1 + num2}''');
-  // print('''A subtração dos dois números é ${num1 - num2}''');
-  // print('''A multiplicação dos dois números é ${num1 * num2}''');
-  // print('''A divisão dos dois números é ${num1 / num2}''');
-  // print('''O resto da divisão dos dois números é ${num1 % num2}''');
 
   // EXERCÍCIO 2 =====================================================
   // double numero = double.parse(stdin.readLineSync()!);
