@@ -1,5 +1,5 @@
-import 'dart:math';
 import 'dart:io';
+import 'dart:math';
 void main (){
   var ranNum = Random().nextInt(100);
   int entrada = int.parse(stdin.readLineSync()!);
