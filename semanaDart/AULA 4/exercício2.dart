@@ -21,10 +21,10 @@ class carro extends veiculo {
 
   carro(
       {required this.quilometragemPorAno,
-      required this.numeroDePortas,
-      required super.marca,
-      required super.modelo,
-      required super.anoFabricacao});
+        required this.numeroDePortas,
+        required super.marca,
+        required super.modelo,
+        required super.anoFabricacao});
 
   String toString() {
     return '''
@@ -44,10 +44,10 @@ class moto extends veiculo {
 
   moto(
       {required this.numeroDeCilindradas,
-      required this.partidaEletrica,
-      required super.marca,
-      required super.modelo,
-      required super.anoFabricacao});
+        required this.partidaEletrica,
+        required super.marca,
+        required super.modelo,
+        required super.anoFabricacao});
 
   String toString() {
     return '''
