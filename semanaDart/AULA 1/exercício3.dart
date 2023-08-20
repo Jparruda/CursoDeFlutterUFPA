@@ -10,12 +10,13 @@ void main() {
   notas.add(10);
   notas.removeAt(2);
   notas.remove(11);
-  List <int> notasPrimeiroSemestre = [notas[0],notas[1]];
+  // List <int> notasPrimeiroSemestre = [notas[0],notas[1]];
   notas.sort();
 
   print('''
   ===========================================================
   Aluno: $nome
+  Idade: $idade
   Mora em: $endereco
   Novo na escola: $ehNovato
   Peso: $peso

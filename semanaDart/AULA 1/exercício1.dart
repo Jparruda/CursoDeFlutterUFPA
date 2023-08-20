@@ -11,6 +11,7 @@ void main() {
   print('''
   ===========================================================
   Aluno: $nome
+  Idade: $idade
   Mora em: $endereco
   Novo na escola: $ehNovato
   Peso: $peso
