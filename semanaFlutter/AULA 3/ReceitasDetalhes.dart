@@ -12,4 +12,5 @@ class ReceitaDetalhes extends StatelessWidget {
       body: Text(detalhes),
     );
   }
+
 }

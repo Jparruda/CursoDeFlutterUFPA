@@ -18,5 +18,6 @@ void main() {
   Disciplinas que $nome participa: $disciplinas
   Notas de $nome: $notas
   ===========================================================
+  
   ''');
 }
